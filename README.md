@@ -2,14 +2,9 @@ The data structures within this folder are the Python variants of common data st
 
 The data structures within this folder are as follows:
 
-Binary Tree
-Heap
-Min
-Max
-Linked List
-Circular
-Doubly
-Normal
+Binary Tree,
+Heap- Min, Max,
+Linked List,- Circular, Doubly, Normal
 Stack
 Queue
 Undirected Graph
