@@ -7,6 +7,4 @@ Heap- Min, Max,
 Linked List,- Circular, Doubly, Normal
 Stack
 Queue
-Undirected Graph
-List
-Matrix
+Undirected Graph-List, Matrix
